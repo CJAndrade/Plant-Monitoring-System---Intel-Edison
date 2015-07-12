@@ -1,6 +1,8 @@
 # Plant-Monitoring-System-Intel-Edison
 Plant Monitoring System - Intel Edison , where sensor values are uploaded to Xively.com
 
+![alt tag](https://raw.githubusercontent.com/CJAndrade/Plant-Monitoring-System-Intel-Edison/master/PicturewithPlantandSensor.jpg)
+
 Monitor the following environmental variables using Xively.com to keep your plant healthy through the winter
 
 Temperature
